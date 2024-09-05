@@ -1,0 +1,27 @@
+body {
+    background-color: #999966;
+    color: #FFFFFF;
+  }
+
+p {
+    color: #FFFFFF;
+}
+
+.navigation_frame {
+    /*display: flex;*/
+}
+
+.navigation_item {
+    border-style: solid;
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+}
+
+.navigation_item:hover {
+    border-style: solid;
+}
+
+.navigation_item p {
+    text-align: center;
+}
