@@ -15,12 +15,12 @@ p {
     height: 100px;
 }
 
-
 .navigation_item {
     border-style: solid;
     margin: auto;
-    width: 100px;
-    padding: 10px;
+    width: 200px;
+    height: 100px;
+    align-content: center;
 }
 
 .navigation_item:hover {
