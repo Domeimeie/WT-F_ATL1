@@ -9,9 +9,11 @@ p {
 
 .navigation_frame {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.navigation_frame img{
+.logo{
     height: 100px;
 }
 
