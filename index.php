@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-  <?php include ('banner.html'); ?>
+  <?php include ('navigation.html'); ?>
     <h1>Hello World</h1>
     <p><b><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada lacinia laoreet. In hac habitasse platea dictumst. 
       In non turpis erat. Vivamus at mi eros. Donec scelerisque aliquet tincidunt. Cras sed bibendum urna, eu varius mauris. Suspendisse id 
