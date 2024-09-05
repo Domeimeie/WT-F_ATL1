@@ -6,6 +6,7 @@
     <title>Kontakt</title>
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/form.css">
+    <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
   <?php include ('navigation.html'); ?>
@@ -15,14 +16,6 @@
             <label for="company">Firma</label>
             <input type="text" id="company" name="company" placeholder="Firma" required pattern="[A-Za-z ]+" title="Darf nur Buchstaben enthalten">
         </p>
-
-        <p>
-            <label for="pwd">Password:</label>
-            <input type="password" id="pwd" name="pwd" 
-            pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" 
-            title="Must contain at least one  number and one uppercase and lowercase letter, and at least 8 or more characters">
-        </p>    
-
         <p>
         <label for="gender">Geschlecht</label>
         <select id="gender">
@@ -61,11 +54,6 @@
         <p>
             <label for="mail">Email:</label>
             <input type="email" id="mail" name="mail" required>
-        </p>
-
-        <p>
-            <label for="age">Alter:</label>
-            <input type="text" id="age" name="age" required pattern="^(?:1[01][0-9]|120|1[8-9]|[2-9][0-9])$" title="Muss eine Zahl zwischen 18-99 sein">
         </p>
 
         <p>

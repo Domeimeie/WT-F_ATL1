@@ -11,6 +11,11 @@ p {
     display: flex;
 }
 
+.navigation_frame img{
+    height: 100px;
+}
+
+
 .navigation_item {
     border-style: solid;
     margin: auto;
