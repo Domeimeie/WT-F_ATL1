@@ -1,3 +1,4 @@
+<?php $currentPage = 'Team'; ?>
 <!DOCTYPE html>
 <html lang="de">
   <head>
@@ -8,6 +9,6 @@
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
-  <?php include ('navigation.html'); ?>
+  <?php include ('navigation.php'); ?>
   </body>
 </html>

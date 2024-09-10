@@ -1,3 +1,4 @@
+<?php $currentPage = 'Contact'; ?>
 <!DOCTYPE html>
 <html lang="de">
   <head>
@@ -9,7 +10,7 @@
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
-  <?php include ('navigation.html'); ?>
+  <?php include ('navigation.php'); ?>
   <div class="form_container">
   <form action="https://www.google.ch">
         <p>Bitte füllen Sie das Formular aus</p>

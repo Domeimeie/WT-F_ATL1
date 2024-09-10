@@ -1,5 +1,5 @@
 <div class="navigation_frame" role="navigation">
-    <picture>
+    <!--<picture>
         <img class="logo" src="media/logoFull.png" alt="Company logo featuring a Dodo">
     </picture>
     <a href="index.php">
@@ -21,5 +21,19 @@
         <div class="navigation_item">
             <p>Kontakt</p>
         </div>
-    </a>
+    </a>-->
+    <?php
+        $urls = array(
+            'Home' => '/index.php',
+            'Product' => '/product.php',
+            'Team' => '/team.php',
+            'contact' => '/contact.php',
+        );
+        
+        foreach ($urls as $name => $url) {
+            print '<a class="navigation_item href=" '.$url.' ">'.
+                    '<div class="navigation_item"'.(($currentPage === $name) ? ' class="active" ': '').
+                        '><p>'.$name.'</p></div></a>';
+        }
+    ?>
 </div>

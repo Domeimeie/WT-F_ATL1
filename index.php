@@ -1,3 +1,4 @@
+<?php $currentPage = 'Home'; ?>
 <!DOCTYPE html>
 <html lang="de">
   <head>
@@ -8,7 +9,7 @@
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
-  <?php include ('navigation.html'); ?>
+  <?php include ('navigation.php'); ?>
     <h1>Hello World</h1>
     <p><b><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada lacinia laoreet. In hac habitasse platea dictumst. 
       In non turpis erat. Vivamus at mi eros. Donec scelerisque aliquet tincidunt. Cras sed bibendum urna, eu varius mauris. Suspendisse id 
