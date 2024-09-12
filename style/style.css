@@ -7,30 +7,3 @@ body {
 p {
     color: #FFFFFF;
 }
-
-.navigation_frame {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.logo{
-    height: 100px;
-}
-
-.navigation_item {
-    border-style: solid;
-    margin: auto;
-    width: 200px;
-    height: 100px;
-    align-content: center;
-}
-
-.navigation_item:hover {
-    border-style: solid;
-    background-color: blue;
-}
-
-.navigation_item p {
-    text-align: center;
-}

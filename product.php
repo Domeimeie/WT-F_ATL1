@@ -1,4 +1,4 @@
-<?php $currentPage = 'Product'; ?>
+<?php $currentPage = 'Produkt'; ?>
 <!DOCTYPE html>
 <html lang="de">
   <head>
@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Produkt</title>
     <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/navigation.css">
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
-  <?php include ('navigation.php'); ?>
+    <?php include ('navigation.php'); ?>
 </html>
