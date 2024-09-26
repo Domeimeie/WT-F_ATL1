@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/navigation.css">
     <link rel="stylesheet" href="style/index.css">
+    <link rel="stylesheet" href="style/footer.css">
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
@@ -16,6 +17,6 @@
       <p><b>DODO?<b></p>
       <p><b>DODO!<b></p>
     </div>
-    <?php include ('navigation.php'); ?>
+    <?php include ('footer.html'); ?>
   </body>
 </html>

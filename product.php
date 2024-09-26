@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/navigation.css">
     <link rel="stylesheet" href="style/product.css">
+    <link rel="stylesheet" href="style/footer.css">
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
@@ -58,5 +59,6 @@
           <p>Start your day with a touch of whimsy using the Dodo-Themed Mug! Featuring a charming illustration of the lovable dodo bird, this mug is perfect for adding a dash of humor to your morning routine. Whether you're sipping coffee, tea, or hot chocolate, the quirky design and vibrant colors make every beverage more enjoyable. Made from durable ceramic, it’s not just a conversation starter—it's your new favorite mug!</p>
         </div>
       </div>
+    <?php include ('footer.html'); ?>
     </div>
 </html>

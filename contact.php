@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style/form.css">
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/navigation.css">
+    <link rel="stylesheet" href="style/footer.css">
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
