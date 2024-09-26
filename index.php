@@ -7,10 +7,15 @@
     <title>Dodo.tv</title>
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/navigation.css">
+    <link rel="stylesheet" href="style/index.css">
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
   </head>
   <body>
     <?php include ('navigation.php'); ?>
-    
+    <div class="content">
+      <p><b>DODO?<b></p>
+      <p><b>DODO!<b></p>
+    </div>
+    <?php include ('navigation.php'); ?>
   </body>
 </html>
