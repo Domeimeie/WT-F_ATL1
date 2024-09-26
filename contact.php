@@ -1,4 +1,4 @@
-<?php $currentPage = 'Kontakt'; ?>
+<?php $currentPage = 'Contact'; ?>
 <!DOCTYPE html>
 <html lang="de">
   <head>

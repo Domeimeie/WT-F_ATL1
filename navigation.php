@@ -8,9 +8,9 @@
             <?php
                 $urls = array(
                 'Home' => '/',
-                'Produkt' => '/product.php',
+                'Product' => '/product.php',
                 'Team' => '/team.php',
-                'Kontakt' => '/contact.php',
+                'Contact' => '/contact.php',
                 );
 
                 foreach ($urls as $name => $url) {
