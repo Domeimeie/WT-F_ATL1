@@ -98,7 +98,7 @@
           charm.</p>
       </div>
     </div>
-    <?php include('footer.html'); ?>
   </div>
+  <?php include('footer.html'); ?>
 
 </html>

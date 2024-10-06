@@ -4,26 +4,31 @@ footer {
   padding: 0.5rem;
   display: flex;
   justify-content: center;
+  height: 20rem;
+  margin-top: auto;
 }
 
 .footerLogo {
   height: 20rem;
 }
 
+.footerItemL {
+  position: absolute;
+  left: 1rem;
+}
 
 .footerItemM {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
 .footerItemM li {
-  
   display: inline;
 }
 
 .footerItemR {
-  justify-content: right;
+  position: absolute;
+  right: 1rem;
 }
 
 .footerItemR iframe {

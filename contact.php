@@ -85,5 +85,6 @@
             <input type="submit" value="Absenden">
         </form>
     </div>
+    <?php include('footer.html'); ?>
 
 </html>
