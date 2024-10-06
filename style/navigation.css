@@ -3,7 +3,7 @@
 }
 
 header {
-  background-color: #ccd5ae;
+  background-color: var(--primary-color);
   margin: 0;
   padding: 0.5rem;
   height: var(--header-height);
@@ -27,13 +27,13 @@ nav ul {
 }
 
 .active {
-  background-color: #e0e9af;
+  background-color: var(--accent-color);
 }
 
 nav ul li {
   width: 7rem;
   height: 100%;
-  background-color: #e9edc9;
+  background-color: var(--background-color);
   margin-right: 0.5rem;
 }
 
@@ -44,11 +44,11 @@ nav ul li a {
   height: 100%;
   width: 100;
   text-decoration: none;
-  color: #d4a373;
+  color: var(--text-color);
 }
 
 nav  ul li a:hover {
-  background-color: #fefae0;
+  background-color: var(--secondary-color);
 }
 
 .container {

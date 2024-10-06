@@ -9,7 +9,7 @@ form {
     display: inline-block;
     padding: 20px;
     margin: 0 auto; 
-    background-color: #ccd5ae;
+    background-color: var(--primary-color);
 }
 
 label {
@@ -20,18 +20,18 @@ label {
 
 input {
     width: 400px;
-    background-color: lightgray;
+    background-color: var(--primary-color);
 }
 
 select   {
     width: 400px;
-    background-color: lightgray;
+    background-color: var(--primary-color);
 }
 
 textarea   {
     width: 400px;
     height: 80px;
-    background-color: lightgray;
+    background-color: var(--primary-color);
 }
 
 .radiobutton {

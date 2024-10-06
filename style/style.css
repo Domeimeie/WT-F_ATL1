@@ -1,17 +1,26 @@
+:root {
+  --primary-color: #F5EFFF;
+  --secondary-color: #CDC1FF;
+  --accent-color: #A594F9;
+  --background-color: #E5D9F2;
+  --text-color: #212529;
+  --link-color: #0056b3;
+}
+
 body {
-  background-color: #999966;
+  background: linear-gradient(#E5D9F2, #F5EFFF, #CDC1FF);
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;  
   }
 
 p {
-  color: #d4a373;
+  color: var(--text-color);
   font-weight: bold;
 }
 
 h1{
-  color: #d4a373;
+  color: var(--text-color);
 }
 
 .content {

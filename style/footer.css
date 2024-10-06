@@ -1,5 +1,5 @@
 footer {
-    background-color: #ccd5ae;
+    background-color: var(--primary-color);
     margin: 0;
     padding: 0.5rem;
   }

@@ -10,16 +10,17 @@
   }
   
   .product {
-    background-color: #ccd5ae;
+    background-color: var(--primary-color);
     border-style: solid;
-    border-color: #AAAA77;
+    border-color: var(--secondary-color);
     display: flex;  
     max-width: 50rem;
-    min-width: 40rem;
+    min-width: 50rem;
     margin: 1rem;
   }
   
   .productDesc{
     margin: 0.5rem;
     text-align: center;
+    overflow: auto;
   }
