@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Produkt</title>
+    <title>Products</title>
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/navigation.css">
     <link rel="stylesheet" href="style/product.css">
@@ -25,7 +25,7 @@
       </div>
       <div class="product">
         <picture>
-          <img class="productImage" src="media/productImages/dodoPlush.webp" alt="Picture showing a cute dodo plushie">
+          <img class="productImage" src="media/productImages/dodoPlush.webp" alt="Dodo Plushie">
         </picture>
         <div class="productDesc">
           <h1>Dodo Plush Toy</h1>
@@ -34,7 +34,7 @@
       </div>
       <div class="product">
         <picture>
-          <img class="productImage" src="media/productImages/dodoMelon.webp" alt="Picture showing the rumored Dodo Melon">
+          <img class="productImage" src="media/productImages/dodoMelon.webp" alt="Dodo Melon">
         </picture>
         <div class="productDesc">
           <h1>Dodo Melon</h1>
@@ -43,7 +43,7 @@
       </div>
       <div class="product">
         <picture>
-          <img class="productImage" src="media/productImages/dodoShirt.webp" alt="Company logo featuring a Dodo">
+          <img class="productImage" src="media/productImages/dodoShirt.webp" alt="Dodo T-Shirt">
         </picture>
         <div class="productDesc">
           <h1>Dodo T-Shirt:</h1>
@@ -52,11 +52,29 @@
       </div>
       <div class="product">
         <picture>
-          <img class="productImage" src="media/productImages/dodoMug.webp" alt="Company logo featuring a Dodo">
+          <img class="productImage" src="media/productImages/dodoMug.webp" alt="Dodo Mug">
         </picture>
         <div class="productDesc">
           <h1>Dodo Mug</h1>
           <p>Start your day with a touch of whimsy using the Dodo-Themed Mug! Featuring a charming illustration of the lovable dodo bird, this mug is perfect for adding a dash of humor to your morning routine. Whether you're sipping coffee, tea, or hot chocolate, the quirky design and vibrant colors make every beverage more enjoyable. Made from durable ceramic, it’s not just a conversation starter—it's your new favorite mug!</p>
+        </div>
+      </div>
+      <div class="product">
+        <picture>
+          <img class="productImage" src="media/productImages/dodoBoardGame.webp" alt="Dodo Board Game">
+        </picture>
+        <div class="productDesc">
+          <h1>Dodo Rescue</h1>
+          <p>Step into a world where dodos roam freely, and it's up to you to protect them from extinction! Dodo Rescue is a fun, family-friendly board game that takes you on an adventure across lush forests, tropical beaches, and mysterious landscapes where dodos once thrived.</p>
+        </div>
+      </div>
+      <div class="product">
+        <picture>
+          <img class="productImage" src="media/productImages/dodoCandles.webp" alt="Dodo Candles">
+        </picture>
+        <div class="productDesc">
+          <h1>Dodo Candles</h1>
+          <p>Transform your home into a tropical haven with these adorable and eco-friendly Dodo-Themed Candles. Perfect for nature lovers, these whimsical candles are designed to brighten up your space with a touch of extinct charm.</p>
         </div>
       </div>
     <?php include ('footer.html'); ?>
