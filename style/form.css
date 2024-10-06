@@ -1,11 +1,9 @@
-
-
 form {
     display: inline-block;
     padding: 20px;
-    margin: 0 auto; 
+    margin: 0 auto;
     background-color: var(--primary-color);
-    
+
 }
 
 label {
@@ -19,12 +17,12 @@ input {
     background-color: var(--primary-color);
 }
 
-select   {
+select {
     width: 400px;
     background-color: var(--primary-color);
 }
 
-textarea   {
+textarea {
     width: 400px;
     height: 80px;
     background-color: var(--primary-color);
@@ -33,7 +31,7 @@ textarea   {
 .radiobutton {
     width: auto;
     float: left;
-}   
+}
 
 .radiodiv_title {
     margin-top: 0px;

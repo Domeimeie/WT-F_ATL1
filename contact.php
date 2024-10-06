@@ -1,7 +1,8 @@
 <?php $currentPage = 'Contact'; ?>
 <!DOCTYPE html>
 <html lang="de">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kontakt</title>
@@ -10,39 +11,44 @@
     <link rel="stylesheet" href="style/navigation.css">
     <link rel="stylesheet" href="style/footer.css">
     <link rel="icon" type="image/x-icon" href="/media/favicon.png">
-  </head>
-  <body>
-    <?php include ('navigation.php'); ?>
+</head>
+
+<body>
+    <?php include('navigation.php'); ?>
     <div class="content">
-    <form action="https://www.google.ch">
+        <form action="https://www.google.ch">
             <p>Bitte füllen Sie das Formular aus</p>
             <p>
                 <label for="company">Firma</label>
-                <input type="text" id="company" name="company" placeholder="Firma" required pattern="[A-Za-z ]+" title="Darf nur Buchstaben enthalten">
+                <input type="text" id="company" name="company" placeholder="Firma" required pattern="[A-Za-z ]+"
+                    title="Darf nur Buchstaben enthalten">
             </p>
             <p>
-            <label for="gender">Geschlecht</label>
-            <select id="gender">
-                <option value="Male">Mann</option>
-                <option value="Female">Frau</option>
-                <option value="Other">Andere</option>
-                <option value="Gender is a lie">Gender is a lie</option>
-            </select>
+                <label for="gender">Geschlecht</label>
+                <select id="gender">
+                    <option value="Male">Mann</option>
+                    <option value="Female">Frau</option>
+                    <option value="Other">Andere</option>
+                    <option value="Gender is a lie">Gender is a lie</option>
+                </select>
             </p>
 
             <p>
                 <label for="fname">Vorname:</label>
-                <input type="text" id="fname" name="fname" required pattern="[A-Za-z ]+" title="Darf nur Buchstaben enthalten">
-            </p>
-            
-            <p>
-                <label for="lname">Nachname:</label>
-                <input type="text" id="lname" name="lname" required pattern="[A-Za-z ]+" title="Darf nur Buchstaben enthalten"> 
+                <input type="text" id="fname" name="fname" required pattern="[A-Za-z ]+"
+                    title="Darf nur Buchstaben enthalten">
             </p>
 
             <p>
-                <label for="adress" >Adresse:</label>
-                <input type="text" id="adress" name="adress" required pattern="[A-Za-z ]+" title="Darf nur Buchstaben enthalten">
+                <label for="lname">Nachname:</label>
+                <input type="text" id="lname" name="lname" required pattern="[A-Za-z ]+"
+                    title="Darf nur Buchstaben enthalten">
+            </p>
+
+            <p>
+                <label for="adress">Adresse:</label>
+                <input type="text" id="adress" name="adress" required pattern="[A-Za-z ]+"
+                    title="Darf nur Buchstaben enthalten">
             </p>
 
             <p>
@@ -52,7 +58,8 @@
 
             <p>
                 <label for="place">Ort:</label>
-                <input type="text" id="place" name="place" required pattern="[A-Za-z ]+" title="Darf nur Buchstaben enthalten">
+                <input type="text" id="place" name="place" required pattern="[A-Za-z ]+"
+                    title="Darf nur Buchstaben enthalten">
             </p>
 
             <p>
@@ -76,7 +83,7 @@
                 <label class="radiobutton" for="other">Sonstige</label>
             </div>
             <input type="submit" value="Absenden">
-
-        </form> 
+        </form>
     </div>
+
 </html>

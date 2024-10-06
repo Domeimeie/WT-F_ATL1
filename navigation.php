@@ -1,24 +1,24 @@
 <header class="fixed-top">
     <div class="container flex-center h-100">
-    <picture>
-        <img class="logo" src="media/logoFull.png" alt="Dodo.tv logo">
-    </picture>
-    <nav>
-        <ul>
-            <?php
+        <picture>
+            <img class="logo" src="media/logoFull.png" alt="Dodo.tv logo">
+        </picture>
+        <nav>
+            <ul>
+                <?php
                 $urls = array(
-                'Home' => '/',
-                'Product' => '/product.php',
-                'Team' => '/team.php',
-                'Contact' => '/contact.php',
+                    'Home' => '/',
+                    'Product' => '/product.php',
+                    'Team' => '/team.php',
+                    'Contact' => '/contact.php',
                 );
 
                 foreach ($urls as $name => $url) {
-                print '<li><a href=" '.$url.'"'. (($currentPage === $name) ? ' class="active" ': '').' ">'.$name.
+                    print '<li><a href=" ' . $url . '"' . (($currentPage === $name) ? ' class="active" ' : '') . ' ">' . $name .
                         '</a></li>';
                 }
-            ?>
-        </ul>
-    </nav>
+                ?>
+            </ul>
+        </nav>
     </div>
 </header>
