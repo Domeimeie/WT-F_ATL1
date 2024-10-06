@@ -13,7 +13,7 @@
   </head>
   <body>
     <?php include ('navigation.php'); ?>
-    <div class="form_container">
+    <div class="content">
     <form action="https://www.google.ch">
             <p>Bitte füllen Sie das Formular aus</p>
             <p>

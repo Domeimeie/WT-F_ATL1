@@ -1,15 +1,11 @@
-.form_container {
-    margin-top: 6rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 form {
     display: inline-block;
     padding: 20px;
     margin: 0 auto; 
     background-color: var(--primary-color);
+    
 }
 
 label {

@@ -3,15 +3,10 @@
     height: 25rem;
   }
   
-  .content {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  
   .product {
     background-color: var(--primary-color);
     border-style: solid;
+    border-width: 0.1rem;
     border-color: var(--secondary-color);
     display: flex;  
     max-width: 50rem;
