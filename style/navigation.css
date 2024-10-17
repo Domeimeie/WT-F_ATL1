@@ -85,3 +85,93 @@ nav ul li a:hover {
 .margin-header-height {
   margin-top: var(--header-height);
 }
+
+
+/*Mobile Navigation Section*/
+@media screen and (max-width: 800px) {
+  nav.desktop {
+    display: none;
+  }
+
+  nav.mobile.open {
+    top: 0;
+  }
+}
+
+nav.mobile {
+  position: fixed;
+  top: 0;
+  top: -100%;
+  bottom: 0;
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+nav.mobile ul {
+  flex-direction: column;
+  background-color: var(--primary-color);
+  height: 100%;
+  width: auto;
+  margin-top: calc(var(--header-height) + 1rem);
+}
+nav.mobile ul li {
+  height: 2rem;
+  background-color: transparent;
+  margin-top: 2rem;
+}
+nav.mobile ul li a {
+  font-size: 2rem;
+}
+button#hamburger {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: 2rem;
+}
+button#hamburger span {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background-color: var(--secondary-color);
+  display: block;
+  height: 5px;
+}
+button#hamburger span:nth-child(1) {
+  top: 5px;
+}
+button#hamburger span:nth-child(2) {
+  top: 25px;
+}
+button#hamburger span:nth-child(3) {
+  top: 45px;
+}
+
+@media screen and (min-width: 800px) {
+  button#hamburger {
+    display: none;
+  }
+}
+
+header {
+  z-index: 100;
+}
+nav.mobile {
+  z-index: 99;
+}
+
+hr {
+  width: 30%;
+  margin-top: 2rem;
+}
+
+.activeMobile {
+  background-color: transparent;
+  color: var(--accent-color);
+}
+
+hr:last-child{
+  visibility: hidden;
+}

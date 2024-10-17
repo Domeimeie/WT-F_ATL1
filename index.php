@@ -16,8 +16,6 @@
 <body>
   <?php include('navigation.php'); ?>
   <div class="content">
-    <p><b>DODO?<b></p>
-    <p><b>DODO!<b></p>
   </div>
   <?php include('footer.html'); ?>
 </body>
