@@ -5,16 +5,23 @@
   border-radius: 25px;
   display: flex;
   margin: 1rem;
+  padding: 0;
 }
 
 .productImage {
   width: 30vh;
   height: 30vh;
   border-radius: 25px;
+  margin: 0;
+}
+
+.product picture {
+  padding: 0;
 }
 
 .productDesc {
-  margin: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
   text-align: center;
   overflow: auto;
   width: 30vh;
@@ -30,7 +37,14 @@
     display: flex;
     margin: 1rem;
     flex-direction: column;
-  }
-
+  } 
   
+  .productDesc {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    text-align: center;
+    overflow: auto;
+    width: 28vh;
+    height: 30vh;
+  }
 }
