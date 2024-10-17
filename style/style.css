@@ -30,7 +30,6 @@ body {
 
 p {
   color: var(--text-color);
-  font-weight: bold;
 }
 
 h1 {

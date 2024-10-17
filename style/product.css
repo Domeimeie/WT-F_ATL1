@@ -1,9 +1,3 @@
-.productImage {
-  width: 25rem;
-  height: 25rem;
-  border-radius: 25px;
-}
-
 .product {
   background-color: var(--primary-color);
   border-style: solid;
@@ -13,9 +7,30 @@
   margin: 1rem;
 }
 
+.productImage {
+  width: 30vh;
+  height: 30vh;
+  border-radius: 25px;
+}
+
 .productDesc {
   margin: 0.5rem;
   text-align: center;
   overflow: auto;
-  max-width: 25rem;
+  width: 30vh;
+  height: 30vh;
+}
+
+@media screen and (max-width: 500px) {
+	.product {
+    background-color: var(--primary-color);
+    border-style: solid;
+    border-width: 0rem;
+    border-radius: 25px;
+    display: flex;
+    margin: 1rem;
+    flex-direction: column;
+  }
+
+  
 }

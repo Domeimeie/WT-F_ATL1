@@ -22,7 +22,7 @@
           alt="Picture showing a dodo themed calendar">
       </picture>
       <div class="productDesc">
-        <h1>Dodo Calendar - 2024</h1>
+        <h2>Dodo Calendar - 2024</h2>
         <p>Bring a splash of color and a touch of nostalgia into your space with our delightful 2024 Dodo-Themed
           Calendar! Each month showcases the quirky, lovable dodo bird in playful, hand-drawn illustrations. From
           tropical adventures to silly antics, this calendar captures the charm of the extinct bird in a way that will
@@ -35,7 +35,7 @@
         <img class="productImage" src="media/productImages/dodoPlush.webp" alt="Dodo Plushie">
       </picture>
       <div class="productDesc">
-        <h1>Dodo Plush Toy</h1>
+        <h2>Dodo Plush Toy</h2>
         <p>A soft and cuddly dodo plush toy, designed with exaggerated features to emphasize its cuteness and quirky
           nature. This could be a great gift for kids or as a collectible for adults.</p>
       </div>
@@ -45,7 +45,7 @@
         <img class="productImage" src="media/productImages/dodoMelon.webp" alt="Dodo Melon">
       </picture>
       <div class="productDesc">
-        <h1>Dodo Melon</h1>
+        <h2>Dodo Melon</h2>
         <p>Discover the sweet, succulent flavor of the Dodo Melon—a one-of-a-kind fruit that's as unique as the extinct
           bird it's named after! With its smooth, green rind and bright orange flesh, the Dodo Melon is bursting with
           juicy goodness, offering a tropical twist with every bite. Its rich, sweet taste is perfect for summertime
@@ -57,7 +57,7 @@
         <img class="productImage" src="media/productImages/dodoShirt.webp" alt="Dodo T-Shirt">
       </picture>
       <div class="productDesc">
-        <h1>Dodo T-Shirt:</h1>
+        <h2>Dodo T-Shirt:</h2>
         <p><b>Wear the Legend!</b> Step out in style with the Dodo T-Shirt, featuring everyone’s favorite extinct bird
           in a playful, bold design. Whether you're a fan of quirky fashion, nature, or just love a good laugh, this tee
           is perfect for making a statement. Made from soft, high-quality cotton, this shirt combines comfort with a
@@ -69,7 +69,7 @@
         <img class="productImage" src="media/productImages/dodoMug.webp" alt="Dodo Mug">
       </picture>
       <div class="productDesc">
-        <h1>Dodo Mug</h1>
+        <h2>Dodo Mug</h2>
         <p>Start your day with a touch of whimsy using the Dodo-Themed Mug! Featuring a charming illustration of the
           lovable dodo bird, this mug is perfect for adding a dash of humor to your morning routine. Whether you're
           sipping coffee, tea, or hot chocolate, the quirky design and vibrant colors make every beverage more
@@ -81,7 +81,7 @@
         <img class="productImage" src="media/productImages/dodoBoardGame.webp" alt="Dodo Board Game">
       </picture>
       <div class="productDesc">
-        <h1>Dodo Rescue</h1>
+        <h2>Dodo Rescue</h2>
         <p>Step into a world where dodos roam freely, and it's up to you to protect them from extinction! Dodo Rescue is
           a fun, family-friendly board game that takes you on an adventure across lush forests, tropical beaches, and
           mysterious landscapes where dodos once thrived.</p>
@@ -92,7 +92,7 @@
         <img class="productImage" src="media/productImages/dodoCandles.webp" alt="Dodo Candles">
       </picture>
       <div class="productDesc">
-        <h1>Dodo Candles</h1>
+        <h2>Dodo Candles</h2>
         <p>Transform your home into a tropical haven with these adorable and eco-friendly Dodo-Themed Candles. Perfect
           for nature lovers, these whimsical candles are designed to brighten up your space with a touch of extinct
           charm.</p>
