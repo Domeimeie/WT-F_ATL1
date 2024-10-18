@@ -8,17 +8,17 @@
   <title>Products</title>
   <link rel="stylesheet" href="style/style.css">
   <link rel="stylesheet" href="style/navigation.css">
-  <link rel="stylesheet" href="style/product.css">
   <link rel="stylesheet" href="style/footer.css">
+  <link rel="stylesheet" href="style/product.css">
   <link rel="icon" type="image/x-icon" href="/media/favicon.png">
 </head>
 
 <body>
   <?php include('navigation.php'); ?>
-  <div class="content">
+  <main class="content">
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoCalendar.webp"
+      <picture class="productImage">
+        <img src="media/productImages/dodoCalendar.webp"
           alt="Picture showing a dodo themed calendar">
       </picture>
       <div class="productDesc">
@@ -31,8 +31,8 @@
       </div>
     </div>
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoPlush.webp" alt="Dodo Plushie">
+      <picture class="productImage">
+        <img src="media/productImages/dodoPlush.webp" alt="Dodo Plushie">
       </picture>
       <div class="productDesc">
         <h2>Dodo Plush Toy</h2>
@@ -41,8 +41,8 @@
       </div>
     </div>
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoMelon.webp" alt="Dodo Melon">
+      <picture class="productImage">
+        <img src="media/productImages/dodoMelon.webp" alt="Dodo Melon">
       </picture>
       <div class="productDesc">
         <h2>Dodo Melon</h2>
@@ -53,8 +53,8 @@
       </div>
     </div>
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoShirt.webp" alt="Dodo T-Shirt">
+      <picture class="productImage">
+        <img src="media/productImages/dodoShirt.webp" alt="Dodo T-Shirt">
       </picture>
       <div class="productDesc">
         <h2>Dodo T-Shirt:</h2>
@@ -65,8 +65,8 @@
       </div>
     </div>
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoMug.webp" alt="Dodo Mug">
+      <picture class="productImage">
+        <img src="media/productImages/dodoMug.webp" alt="Dodo Mug">
       </picture>
       <div class="productDesc">
         <h2>Dodo Mug</h2>
@@ -77,8 +77,8 @@
       </div>
     </div>
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoBoardGame.webp" alt="Dodo Board Game">
+      <picture class="productImage">
+        <img src="media/productImages/dodoBoardGame.webp" alt="Dodo Board Game">
       </picture>
       <div class="productDesc">
         <h2>Dodo Rescue</h2>
@@ -88,8 +88,8 @@
       </div>
     </div>
     <div class="product">
-      <picture>
-        <img class="productImage" src="media/productImages/dodoCandles.webp" alt="Dodo Candles">
+      <picture class="productImage">
+        <img src="media/productImages/dodoCandles.webp" alt="Dodo Candles">
       </picture>
       <div class="productDesc">
         <h2>Dodo Candles</h2>
@@ -98,7 +98,7 @@
           charm.</p>
       </div>
     </div>
-  </div>
+  </main>
   <?php include('footer.html'); ?>
 
 </html>
