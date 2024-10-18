@@ -23,7 +23,6 @@
         <button id="hamburger">
             <span></span>
             <span></span>
-            <span></span>
         </button>
     </div>
 </header>
@@ -48,9 +47,11 @@
 const hamburger = document.getElementById('hamburger');
 // Mobile Navigation in Variable speichern
 const mobileNav = document.querySelector('nav.mobile');
+const crossBurger = document.querySelector('button#hamburger');
 // Klick-EventListener auf Hamburger registrieren...
 hamburger.addEventListener('click', () => {
     // ..der bei Klick die "open" Klasse auf der mobilen Navigation toggelt.
     mobileNav.classList.toggle('open');
+    crossBurger.classList.toggle('spanActive');
 });
 </script>
