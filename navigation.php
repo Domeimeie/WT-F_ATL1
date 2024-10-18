@@ -43,15 +43,15 @@
     </ul>
   </nav>
 <script>
-// Hamburger-Button in Variable speichern
+// Setup hamburger button
 const hamburger = document.getElementById('hamburger');
-// Mobile Navigation in Variable speichern
+// Setup interaction tags
 const mobileNav = document.querySelector('nav.mobile');
-const crossBurger = document.querySelector('button#hamburger');
-// Klick-EventListener auf Hamburger registrieren...
+const animationBurger = document.querySelector('button#hamburger');
+// Setup click event for hamburger button
 hamburger.addEventListener('click', () => {
-    // ..der bei Klick die "open" Klasse auf der mobilen Navigation toggelt.
+    // toggle classes for tags
     mobileNav.classList.toggle('open');
-    crossBurger.classList.toggle('spanActive');
+    animationBurger.classList.toggle('spanActive');
 });
 </script>
