@@ -16,23 +16,33 @@
 <body>
   <?php include'navigation.php'; ?>
   <main class="content">
-    <div class="employee">
+  <div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/ymhitra.jpeg"
-          alt="Employee Ymhitra">
+        <img src="media/employees/dominique.png"
+          alt="CEO Dominique">
       </picture>
       <div class="employeeDesc">
-        <h2>Ymhitra</h2>
+        <h2>Dominique</h2>
+        <h4>CEO/CFO/COO</h4>
+      </div>
+    </div>
+    <div class="employee">
+      <picture class="employeePicture">
+        <img src="media/employees/ymhitra.png"
+          alt="Employee Y'mhitra">
+      </picture>
+      <div class="employeeDesc">
+        <h2>Y'mhitra</h2>
         <h4>Head of Marketing</h4>
       </div>
     </div>
     <div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/yshtola.jpeg"
-          alt="Employee Ymhitra">
+        <img src="media/employees/yshtola.png"
+          alt="Employee Y'shtola'">
       </picture>
       <div class="employeeDesc">
-        <h2>Yshtola</h2>
+        <h2>Y'shtola</h2>
         <h4>Head of Sales</h4>
       </div>
     </div>
