@@ -23,7 +23,7 @@
       </picture>
       <div class="employeeDesc">
         <h2>Dominique</h2>
-        <h4>CEO/CFO/COO</h4>
+        <h4>President/CEO/CFO/COO/CIO</h4>
       </div>
     </div>
     <div class="employee">
@@ -44,6 +44,24 @@
       <div class="employeeDesc">
         <h2>Y'shtola</h2>
         <h4>Head of Sales</h4>
+      </div>
+    </div><div class="employee">
+      <picture class="employeePicture">
+        <img src="media/employees/mason.png"
+          alt="Employee Mason'">
+      </picture>
+      <div class="employeeDesc">
+        <h2>Mason</h2>
+        <h4>Head of Human affection</h4>
+      </div>
+    </div><div class="employee">
+      <picture class="employeePicture">
+        <img src="media/employees/boots.png"
+          alt="Employee Boots'">
+      </picture>
+      <div class="employeeDesc">
+        <h2>Boots</h2>
+        <h4>CEO of fucking around</h4>
       </div>
     </div>
   </main>
