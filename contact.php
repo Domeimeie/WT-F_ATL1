@@ -19,7 +19,7 @@
         <form class="contactForm" action="https://www.google.ch">
             <p>Got any questions?<br>Please fill out the contact form below with your request, and we will respond as soon as possible.</p>
             <p>
-                <label for="lname">Nachname*</label>
+                <label for="lname">Name*</label>
                 <input type="text" id="lname" name="lname" required pattern="[A-Za-z ]+"
                     title="May only contain letters" placeholder="Name">
             </p>
@@ -28,7 +28,7 @@
                 <input type="email" id="mail" name="mail" required title="May only contain letters" placeholder="Email">
             </p>
             <p>
-                <label for="message">Mitteilung*</label>
+                <label for="message">Message*</label>
                 <textarea id="message" name="message" required placeholder="Your message"></textarea>
             </p>
             <input type="submit" value="Absenden">
