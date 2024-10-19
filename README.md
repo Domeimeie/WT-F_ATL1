@@ -10,7 +10,7 @@ This is a simple PHP-enabled HTML website designed for the ATL in the module "We
 - Dynamic content using PHP
 - Responsive design
 - Basic navigation
-- Example forms with validation
+- Forms with validation
 - Clean and organized code structure
 
 ## Requirements
