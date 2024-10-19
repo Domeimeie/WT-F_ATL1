@@ -1,0 +1,31 @@
+
+.employee {
+    background-color: var(--primary-color);
+    border-radius: 25px;
+    margin: 1rem;
+    padding: 0;
+    width: 50vh;
+    height: auto;    
+    display: flex;
+    flex-direction: column;
+  }
+
+
+.employeePicture{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.employeePicture img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    object-fit: cover; 
+}
+
+.employeeDesc {
+    text-align: center;
+  }

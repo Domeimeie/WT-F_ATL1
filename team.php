@@ -9,13 +9,35 @@
   <link rel="stylesheet" href="style/style.css">
   <link rel="stylesheet" href="style/navigation.css">
   <link rel="stylesheet" href="style/footer.css">
+  <link rel="stylesheet" href="style/team.css">
   <link rel="icon" type="image/x-icon" href="/media/favicon.png">
 </head>
 
 <body>
-  <?php include('navigation.php'); ?>
-
-  <?php include('footer.html'); ?>
+  <?php include'navigation.php'; ?>
+  <main class="content">
+    <div class="employee">
+      <picture class="employeePicture">
+        <img src="media/employees/ymhitra.jpeg"
+          alt="Employee Ymhitra">
+      </picture>
+      <div class="employeeDesc">
+        <h2>Ymhitra</h2>
+        <h4>Head of Marketing</h4>
+      </div>
+    </div>
+    <div class="employee">
+      <picture class="employeePicture">
+        <img src="media/employees/yshtola.jpeg"
+          alt="Employee Ymhitra">
+      </picture>
+      <div class="employeeDesc">
+        <h2>Yshtola</h2>
+        <h4>Head of Sales</h4>
+      </div>
+    </div>
+  </main>
+  <?php include'footer.html'; ?>
 </body>
 
 </html>
