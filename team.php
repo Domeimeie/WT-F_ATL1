@@ -61,7 +61,7 @@
       </picture>
       <div class="employeeDesc">
         <h2>Boots</h2>
-        <h4>CEO of fucking around</h4>
+        <h4>CEO of lazing around</h4>
       </div>
     </div>
   </main>
