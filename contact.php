@@ -16,8 +16,8 @@
 <body>
     <?php include'navigation.php'; ?>
     <main class="content">
-        <form action="https://www.google.ch">
-            <p>Got any questions?<br>Fill out the below contact form, including your request and we'll be sure to get back to you as soon as possible.</p>
+        <form class="contactForm" action="https://www.google.ch">
+            <p>Got any questions?<br>Please fill out the contact form below with your request, and we will respond as soon as possible.</p>
             <p>
                 <label for="lname">Nachname*</label>
                 <input type="text" id="lname" name="lname" required pattern="[A-Za-z ]+"
