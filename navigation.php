@@ -1,7 +1,9 @@
 <header class="fixed-top">
     <div class="container flex-center h-100">
         <picture>
-            <img class="logo" src="media/logoFull.png" alt="Dodo.tv logo">
+            <a href="/">
+                <img class="logo" src="media/logoFull.png" alt="Dodo.tv logo">
+            </a>
         </picture>
         <nav class="desktop">
             <ul>
