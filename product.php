@@ -5,6 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Show your support for the Dodo Revival Project by purchasing one of many Dodo themed merchandise items.">
   <title>Products</title>
   <link rel="stylesheet" href="style/style.css">
   <link rel="stylesheet" href="style/navigation.css">

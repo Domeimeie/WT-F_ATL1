@@ -5,6 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Learn about the Project Dodo Revival, a project that aims to ressurect the extinct bird so that it may once again roam the island of Mauritius.">
   <title>Dodo.tv</title>
   <link rel="stylesheet" href="style/style.css">
   <link rel="stylesheet" href="style/navigation.css">

@@ -5,6 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="If you have any questions about the Dodo Revival Project, be sure to fill out our contact form.">
     <title>Kontakt</title>
     <link rel="stylesheet" href="style/form.css">
     <link rel="stylesheet" href="style/style.css">
