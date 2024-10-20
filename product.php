@@ -138,7 +138,7 @@
       </picture>
       <div class="productDesc">
         <h2>Dodo Pajama</h2>
-        <br>Get ready for the most relaxing night's sleep with these soft and quirky Dodo Pajamas. Designed for comfort and style, 
+        <p>Get ready for the most relaxing night's sleep with these soft and quirky Dodo Pajamas. Designed for comfort and style, 
           these pajamas feature adorable cartoon dodos and tropical accents that will make you feel like you're on a dreamy island vacation.</p>
       </div>
     </div>
@@ -149,7 +149,7 @@
       </picture>
       <div class="productDesc">
         <h2>Dodo Phone Cases</h2>
-        <br>Show off your love for the dodo with these fun and unique Dodo Phone Cases. Whether you prefer a minimalistic look or something 
+        <p>Show off your love for the dodo with these fun and unique Dodo Phone Cases. Whether you prefer a minimalistic look or something 
         more vibrant and playful, these cases combine style and functionality with a dash of extinct charm!</p>
       </div>
     </div>
@@ -160,7 +160,7 @@
       </picture>
       <div class="productDesc">
         <h2>Dodo Water bottle</h2>
-        <br>Add some extinct charm to your hydration routine with these stylish Dodo-Themed Water Bottles. Perfect for on-the-go eco-conscious
+        <p>Add some extinct charm to your hydration routine with these stylish Dodo-Themed Water Bottles. Perfect for on-the-go eco-conscious
          individuals, these bottles combine playful dodo designs with functionality and sustainability.</p>
       </div>
     </div>
