@@ -131,6 +131,17 @@
       </div>
     </div>
 
+    <div class="product">
+      <picture class="productImage">
+        <img src="media/productImages/dodoPajama.webp" alt="Dodo Socks">
+      </picture>
+      <div class="productDesc">
+        <h2>Dodo Pajama</h2>
+        <br>Get ready for the most relaxing night's sleep with these soft and quirky Dodo Pajamas. Designed for comfort and style, 
+          these pajamas feature adorable cartoon dodos and tropical accents that will make you feel like you're on a dreamy island vacation.</p>
+      </div>
+    </div>
+
   </main>
   <?php include('footer.html'); ?>
 
