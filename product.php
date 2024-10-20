@@ -16,6 +16,7 @@
 <body>
   <?php include('navigation.php'); ?>
   <main class="content">
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoCalendar.webp"
@@ -30,6 +31,7 @@
           humor in their daily life.</p>
       </div>
     </div>
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoPlush.webp" alt="Dodo Plushie">
@@ -40,6 +42,7 @@
           nature. This could be a great gift for kids or as a collectible for adults.</p>
       </div>
     </div>
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoMelon.webp" alt="Dodo Melon">
@@ -52,18 +55,20 @@
           snacks, smoothies, or as the centerpiece of a fruit salad. But - beware of Squirrels</p>
       </div>
     </div>
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoShirt.webp" alt="Dodo T-Shirt">
       </picture>
       <div class="productDesc">
-        <h2>Dodo T-Shirt:</h2>
+        <h2>Dodo T-Shirt</h2>
         <p><b>Wear the Legend!</b> Step out in style with the Dodo T-Shirt, featuring everyone’s favorite extinct bird
           in a playful, bold design. Whether you're a fan of quirky fashion, nature, or just love a good laugh, this tee
           is perfect for making a statement. Made from soft, high-quality cotton, this shirt combines comfort with a
           splash of whimsy, showcasing a colorful dodo illustration that's sure to turn heads.</p>
       </div>
     </div>
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoMug.webp" alt="Dodo Mug">
@@ -76,6 +81,7 @@
           enjoyable. Made from durable ceramic, it’s not just a conversation starter—it's your new favorite mug!</p>
       </div>
     </div>
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoBoardGame.webp" alt="Dodo Board Game">
@@ -87,6 +93,7 @@
           mysterious landscapes where dodos once thrived.</p>
       </div>
     </div>
+
     <div class="product">
       <picture class="productImage">
         <img src="media/productImages/dodoCandles.webp" alt="Dodo Candles">
@@ -98,6 +105,32 @@
           charm.</p>
       </div>
     </div>
+
+    <div class="product">
+      <picture class="productImage">
+        <img src="media/productImages/dodoPins.webp" alt="Dodo Pins">
+      </picture>
+      <div class="productDesc">
+        <h2>Dodo Emanel Pins</h2>
+        <p>Add a pop of fun and personality to your accessories with these Dodo Enamel Pins! Whether you're a fan of 
+          quirky fashion or love unique collectibles, these pins are the perfect way to show off your style while 
+          celebrating one of nature's most iconic (and extinct) creatures.<br>
+          Add a playful touch to your accessories and let the dodo live on—through your style!</p>
+      </div>
+    </div>
+
+    <div class="product">
+      <picture class="productImage">
+        <img src="media/productImages/dodoSocks.webp" alt="Dodo Socks">
+      </picture>
+      <div class="productDesc">
+        <h2>Dodo Socks</h2>
+        <p><b>Fun Fashion with a Quirky Twist!</b><br>
+        Step into a world of playful style with these colorful and quirky Dodo Socks. Perfect for adding a splash of 
+        fun to your wardrobe, these socks are designed for anyone who loves unique fashion and a good dose of extinct bird humor!</p>
+      </div>
+    </div>
+
   </main>
   <?php include('footer.html'); ?>
 
