@@ -4,6 +4,7 @@
 ## Overview
 
 This is a simple PHP-enabled HTML website designed for the ATL in the module "Web Technologies - Foundation"
+And example of the website can be accessed via http://domei.internet-box.ch/
 
 ## Features
 
