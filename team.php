@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="style/navigation.css">
   <link rel="stylesheet" href="style/footer.css">
   <link rel="stylesheet" href="style/team.css">
-  <link rel="icon" type="image/x-icon" href="/media/favicon.png">
+  <link rel="icon" type="image/x-icon" href="/media/favicon.webp">
 </head>
 
 <body>
@@ -19,7 +19,7 @@
   <main class="content">
   <div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/dominique.png"
+        <img src="media/employees/dominique.webp"
           alt="CEO Dominique">
       </picture>
       <div class="employeeDesc">
@@ -29,7 +29,7 @@
     </div>
     <div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/ymhitra.png"
+        <img src="media/employees/ymhitra.webp"
           alt="Employee Y'mhitra">
       </picture>
       <div class="employeeDesc">
@@ -39,7 +39,7 @@
     </div>
     <div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/yshtola.png"
+        <img src="media/employees/yshtola.webp"
           alt="Employee Y'shtola'">
       </picture>
       <div class="employeeDesc">
@@ -48,7 +48,7 @@
       </div>
     </div><div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/mason.png"
+        <img src="media/employees/mason.webp"
           alt="Employee Mason'">
       </picture>
       <div class="employeeDesc">
@@ -57,7 +57,7 @@
       </div>
     </div><div class="employee">
       <picture class="employeePicture">
-        <img src="media/employees/boots.png"
+        <img src="media/employees/boots.webp"
           alt="Employee Boots'">
       </picture>
       <div class="employeeDesc">

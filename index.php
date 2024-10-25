@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="style/navigation.css">
   <link rel="stylesheet" href="style/index.css">
   <link rel="stylesheet" href="style/footer.css">
-  <link rel="icon" type="image/x-icon" href="/media/favicon.png">
+  <link rel="icon" type="image/x-icon" href="/media/favicon.webp">
 </head>
 
 <body>
@@ -32,7 +32,7 @@
         <a href="product.php" class="support">Support our cause</a>
       </div>
       <picture class="welcomePicture">
-          <img src="media/dodoIndex.png" alt="Historical Dodo">
+          <img src="media/dodoIndex.webp" alt="Historical Dodo">
       </picture>
     </article>
   </main>

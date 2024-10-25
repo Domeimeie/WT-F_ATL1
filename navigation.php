@@ -2,7 +2,7 @@
     <div class="container flex-center h-100">
         <picture>
             <a href="/">
-                <img class="logo" src="media/logoFull.png" alt="Dodo.tv logo">
+                <img class="logo" src="media/logoFull.webp" alt="Dodo.tv logo">
             </a>
         </picture>
         <nav class="desktop">
