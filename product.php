@@ -15,7 +15,7 @@
 </head>
 
 <body>
-  <?php include('navigation.php'); ?>
+  <?php include'navigation.php'; ?>
   <main class="content">
 
     <div class="product">
@@ -166,6 +166,6 @@
     </div>
 
   </main>
-  <?php include('footer.html'); ?>
+  <?php include'footer.html'; ?>
 
 </html>
