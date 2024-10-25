@@ -1,10 +1,10 @@
 <header class="fixed-top">
-    <div class="container flex-center h-100">
-        <picture>
-            <a href="/">
+    <div class="container flex-center h-100">     
+        <a href="/">
+            <picture>
                 <img class="logo" src="media/logoFull.webp" alt="Dodo.tv logo">
-            </a>
-        </picture>
+            </picture>
+        </a>
         <nav class="desktop">
             <ul>
                 <?php
@@ -16,8 +16,7 @@
                 );
 
                 foreach ($urls as $name => $url) {
-                    print '<li><a href=" ' . $url . '"' . (($currentPage === $name) ? ' class="active" ' : '') . ' ">' . $name .
-                        '</a></li>';
+                    echo '<li><a href="'.$url.'"'.($currentPage === $name ? ' class="active">' : '>').$name.'</a></li>';
                 }
                 ?>
             </ul>
@@ -38,8 +37,7 @@
             'Contact' => '/contact.php',
         );
         foreach ($urls as $name => $url) {
-            print '<li><a href=" ' . $url . '"' . (($currentPage === $name) ? ' class="activeMobile" ' : '') . ' ">' . $name .
-                '</a></li><hr>';
+            echo '<li><a href="'.$url.'"'.(($currentPage === $name) ? ' class="activeMobile">' : '>').$name.'</a></li>';
         }
         ?>
     </ul>

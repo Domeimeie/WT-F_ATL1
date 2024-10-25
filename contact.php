@@ -1,6 +1,6 @@
 <?php $currentPage = 'Contact'; ?>
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
