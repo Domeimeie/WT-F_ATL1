@@ -22,7 +22,7 @@
                 ?>
             </ul>
         </nav>
-        <button id="hamburger">
+        <button id="hamburger" title="menuButton">
             <span></span>
             <span></span>
         </button>
